@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+rocm_env/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos e arquivos grandes
+*.pt
+*.pth
+*.onnx
+*.h5
+*.joblib
+
+# Dados
+data/
+dataset/
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
